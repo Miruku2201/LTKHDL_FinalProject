@@ -1,1 +1,4 @@
 https://drive.google.com/drive/folders/15ob5Q59qEHWwk_Wto955Z_BqybocL76F?usp=sharing
+
+Để các folder csv, features cùng cấp với các file.ipynb
+
