@@ -1,0 +1,14 @@
+Phần EDA-Preprocessing:
+Thêm:	
+	Thêm phần thống kê mô tả về các cột dữ liệu
+	Vẽ đồ thị treemap để quan sát số lượng thể loại nhạc ở mỗi nước
+
+Question:
+Thêm:
+	
+	Câu 6
+Sửa
+	Thay đổi câu hỏi số 1
+	Câu 5 Sửa cell code thứ 1 - Thêm vào loại bỏ giá trị Global trong cột country
+Xóa
+	Xóa các train model của câu hỏi số 2
